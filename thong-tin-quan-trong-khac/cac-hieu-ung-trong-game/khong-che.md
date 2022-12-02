@@ -1,0 +1,18 @@
+# Khống Chế
+
+
+
+|                                                     **Tên**                                                    |                                                                    **Chi Tiết**                                                                    |
+| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     <p><img src="../../.gitbook/assets/image (352).png" alt=""><br>Mù</p><p><strong>[CC cứng]</strong></p>     |                                                                 Không thể hành động                                                                |
+| <p><img src="../../.gitbook/assets/image (344).png" alt=""><br>Băng Phong</p><p><strong>[CC cứng]</strong></p> |                                                                 Không thể hành động                                                                |
+|  <p><img src="../../.gitbook/assets/image (284).png" alt=""><br>Nguyền Ấn</p><p><strong>[CC cứng]</strong></p> |                                                                Không thể sài kỹ năng                                                               |
+|  <p><img src="../../.gitbook/assets/image (305).png" alt=""><br>Giam Cầm</p><p><strong>[CC cứng]</strong></p>  |                                                                 Không thể hành động                                                                |
+| <p><img src="../../.gitbook/assets/image (338).png" alt=""><br>Phong Ngục</p><p><strong>[CC cứng]</strong></p> |                                                                 Không thể hành động                                                                |
+|    <p><img src="../../.gitbook/assets/image (341).png" alt=""><br>Hư Vô</p><p><strong>[CC cứng]</strong></p>   | Không thể hành động. Không nhận sát thương từ kỹ năng, chỉ nhận sát thương từ đòn đánh thường. Giảm 30% tỷ lệ tổn thương và 30% tỷ lệ miễn thương. |
+|   <p><img src="../../.gitbook/assets/image (334).png" alt=""><br>Mê Hoặc</p><p><strong>[CC cứng]</strong></p>  |                                                Tăng % hệ số sát thương và tỷ lệ sát thương, hỗn loạn                                               |
+|                     <p><img src="../../.gitbook/assets/image (280).png" alt=""><br>Đuổi</p>                    |                                                                 Không thể hành động                                                                |
+|                    <p><img src="../../.gitbook/assets/image (348).png" alt=""><br>Cấm Kỹ</p>                   |                                                               Không thế tung kỹ năng                                                               |
+|                   <p><img src="../../.gitbook/assets/image (277).png" alt=""><br>Hỗn Loạn</p>                  |                                                                 Tấn công đồng minh                                                                 |
+|                  <p><img src="../../.gitbook/assets/image (351).png" alt=""><br>Nguyệt Độc</p>                 |                                                                 Không thể hành động                                                                |
+|                  <p><img src="../../.gitbook/assets/image (343).png" alt=""><br>Chấn Nhiếp</p>                 |                                                                 Không thể hành động                                                                |
